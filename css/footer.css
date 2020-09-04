@@ -1,0 +1,35 @@
+.footer {
+    background: rgb(5, 0, 52);
+    padding: 1em;
+    text-align: center;
+}
+
+.img-footer {
+    width: 3em;
+    padding-bottom: .5em;
+}
+
+.footer p {
+    color: #fff;
+    font-size: .8em;
+}
+
+@media (min-width: 330px){
+    .footer {
+    text-align: left;
+    }
+
+    .img-footer {
+        display: inline-block;
+        vertical-align: middle;
+        padding-bottom: 0;
+    }
+    
+    .footer p {
+        font-size: .8em;
+        float: right;
+        padding-top: .7em;
+        display: inline-block;
+        vertical-align: middle;
+    }
+}

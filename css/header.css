@@ -1,0 +1,111 @@
+.header {
+	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)), url(../img/destaque.jpg) no-repeat;
+	background-size: cover;
+	padding-bottom: 5em;
+	text-align: center;
+}
+
+.header .nav-header {
+	width: 100%;
+	background: rgba(5,0,52,0.8);
+}
+
+.header .nav-header .link-header {
+	text-decoration: none;
+	color: #fff;
+	font-size: 1.3em;
+	line-height: 2em;
+	font-weight: 300;
+	border: none;
+	border-radius: 4px;
+	padding: .2em .5em;
+	text-transform: lowercase;
+}
+
+.header .nav-header:last-child {
+	padding-bottom: .5em;
+}
+
+.header .nav-header .vertical-line {
+	display: none;
+}
+
+.header .nav-header .logo-header {
+	width: 5.5em;
+	padding: 2em .5em 1em .5em;
+}
+
+.header .jumbotron .title {
+	color: #ffc0cb;
+	font-size: 5em;
+	font-weight: 900;
+	padding: .7em 0 0 0;
+	text-transform: lowercase;
+}
+
+.header .jumbotron .description {
+	color: #fff;
+	font-size: 1.3em;
+	font-weight: 200;
+	padding: .3em 0 0 0;
+	line-height: 1.3em;
+	text-transform: lowercase;
+}
+
+.header .panel-schedule {
+	margin-top: 3em;
+}
+
+.header .panel-schedule .btn-schedule {
+	font-size: 1.5em;
+	padding: .4em .8em;
+}
+
+/* ------ Media Query ------ */
+@media (min-width: 400px) {
+	.header .jumbotron .description {
+	font-size: 2em;
+	}
+}
+
+@media (min-width: 680px) {
+	.header .nav-header {
+		display: flex;
+		justify-content: center;
+		padding-top: .5em;
+		align-items: center;
+	}
+
+	.header .nav-header .vertical-line {
+		display: flex;
+		color: #fff;
+		font-size: 1.2em;
+		line-height: 2em;
+		font-weight: 300;
+		padding: 0;
+		margin: 0 .5em;
+	}
+
+	.header .nav-header .link-header {
+		margin-right: 0 .5em;
+	}
+
+	.header .nav-header .logo-header {
+		width: 5.5em;
+		padding: 1.5em 2em .5em .5em;
+	}
+
+	.header .jumbotron .title {
+		font-size: 6em;
+	}
+	
+	.header .jumbotron .description {
+		font-size: 2.5em;
+		line-height: 1.2em;
+		margin-top: .2em;
+	}
+
+	.header .panel-schedule {
+		margin-top: 4em;
+	}
+}
