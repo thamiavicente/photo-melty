@@ -4,12 +4,15 @@
 ![Badge](https://img.shields.io/static/v1?label=Licence&message=MIT&color=blueviolet&style=flat)
 ![Badge](https://img.shields.io/static/v1?label=Language&message=HTML%205&color=red&style=flat)
 ![Badge](https://img.shields.io/static/v1?label=Language&message=CSS%203&color=orange&style=flat)
+![Badge](https://img.shields.io/static/v1?label=Language&message=JavaScript&color=yellow&style=flat&)
 
 ## :clipboard: Description
 ### What is it?
-<p>This is my first website. I made it during the classes about HTML 5 and CSS 3 from Alura online courses.</p>
+<p>For the conclusion of the course about front-end in Alura Cursos Online, I made this project for a fictional photography studio.</p>
 
 ### What does it?
+- Responsive layout
+- Scroll and send form animation
 
 ## :computer: Deploy
 - [Deploy](https://thamiavicente.github.io/photo-melty/)
@@ -19,7 +22,7 @@
 <p>1. Clone the repository to your machine</p>
 
 ```
-git clone https://github.com/thamiavicente/petshop-tree-house.git
+git clone https://github.com/thamiavicente/photo-melty.git
 ```
 <p>2. Open it in your favorite text editor</p>
 
@@ -31,6 +34,7 @@ git clone https://github.com/thamiavicente/petshop-tree-house.git
 - Make it more accessible
 
 ## :camera: Image Rights
+
 
 ## :lock: Licence
 <p>MIT License</p>
