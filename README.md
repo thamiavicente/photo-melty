@@ -34,7 +34,15 @@ git clone https://github.com/thamiavicente/photo-melty.git
 - Make it more accessible
 
 ## :camera: Image Rights
-
+|Imagem ID|Author|Link|
+| -------- | -------- | -------- |
+|destaque.jpg|Alexander Dummer|[Unsplash](https://unsplash.com/photos/aS4Duj2j7r4)|
+|staff1.jpg|Kenny Luo|[Unsplash](https://unsplash.com/photos/eq5em3JMgOw)|
+|staff2.jpg|ATC Comm Photo|[Pexels](https://www.pexels.com/pt-br/foto/acessorios-para-cabeca-aparelho-aproximacao-bandana-1903308/)|
+|staff3.jpg|Matt Hardy|[Pexels](https://www.pexels.com/pt-br/foto/ao-ar-livre-arquitetura-camera-cidade-2272940/)|
+|staff4.jpg|Thorn Yang|[Pexels](https://www.pexels.com/pt-br/foto/atraente-bonita-bonitinho-bonito-139829/)|
+|staff5.jpg|Andrea Piacquadio|[Pexels](https://www.pexels.com/pt-br/foto/adulto-alegre-alegria-ao-ar-livre-814822/)|
+|staff5.jpg|Marcelo Chagas|[Pexels](https://www.pexels.com/pt-br/foto/abertura-analogico-analogo-ao-ar-livre-1854897/)|
 
 ## :lock: Licence
 <p>MIT License</p>
